@@ -1,0 +1,5 @@
+❯ rly keys add mehub mekey                                                       
+{"mnemonic":"virus pulse wood unable cram illegal boss happy treat awake lab broom husband sauce plastic swap brand cluster north harvest broken measure fruit cloud","address":"me1mva73y9qnsplmxwmslzm6ss5uhzwg9476tujwu"}
+    ~/code_src/github/relayer  on   v2.5.2 !2 ?2                                                                                                                                                                at 10:03:55  
+❯ rly keys add rollapp rollkey                                                   
+{"mnemonic":"acquire faith obtain physical name phrase coil lyrics behind nephew isolate bridge domain afraid moral scare damp mobile alien crush flame maximum slow plate","address":"rol1xc9uxtnjea6sg7eug6epqwavz4c93q332gj0w3"}
